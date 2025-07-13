@@ -27,3 +27,22 @@ If the code is correct, you can then access the clue.
 
 Special Note #2: In Case #2, there will be witnesses who will give their testimonies regarding the murder. You must approach 
 each witness and listen to all of their testimonies before interacting with any clues.
+
+## How to Run
+Download Visual Studio Code: https://code.visualstudio.com/download
+
+Clone the project:
+```
+git clone https://github.com/va2324/detective-game.git
+```
+
+Make sure you have Java installed on your system. Enter the command below to check if Java is already installed. If not, download Java from this website: https://www.oracle.com/java/technologies/downloads/
+```
+java -version
+```
+
+Run the following commands in the terminal to start the application:
+```
+javac FinalProject.java
+java FinalProject
+```
