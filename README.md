@@ -1,6 +1,6 @@
-DETECTIVE GAME
+### DETECTIVE GAME
 
-Purpose: Welcome to the Detective Game! You will be playing as Detective Sam Holmes, 
+Synopsis: Welcome to the Detective Game! You will be playing as Detective Sam Holmes, 
 the great-great-great-great grandson of the esteemed detective Sherlock Holmes. 
 Your task is to solve a series of 3 murders. For each murder, look around the crime scene 
 for clues and determine the identities of the killers.  
